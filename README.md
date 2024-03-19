@@ -17,9 +17,15 @@
   <img aling="center" alt="h" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
  </div>
 
- - List item
+ - Entender o que é CSS (Cascade Style Sheets - Folha de estilo em cascatas);
+ - Usar cores e incluir backgrounds, estilizando páginas web;
+ - Dominar o uso de seletores;
+ - Especificidade e herança no CSS;
+ - Incluir fontes;
+ - Dominar o posicionamento de elementos.
+   
+  <h3>BULMA</h3>
 
-BULMA
 
 #### Licença
 
