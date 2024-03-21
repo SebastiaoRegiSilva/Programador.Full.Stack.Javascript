@@ -1,7 +1,15 @@
 li{
-    color: green;
+    color: #008000;
 }
 h1{
-    color: purple;
-    background-color: burlywood;
+    color: #800080;
+    border: 2px dashed #f8dba6;
+}
+h4{
+    color: #ffffff;
+}
+body{
+    background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2018/06/42374725534_a653d1b7cb_k.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
