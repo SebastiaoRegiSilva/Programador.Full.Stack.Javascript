@@ -13,3 +13,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.moon-name{
+    color: #00ffff;
+    font-style: oblique;
+}
+
+#europa{
+    color: #9acd32;
+    background-color: #ffffff;
+}
