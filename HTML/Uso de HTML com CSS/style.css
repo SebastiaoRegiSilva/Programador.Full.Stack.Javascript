@@ -9,7 +9,7 @@ h4{
     color: #ffffff;
 }
 body{
-    background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2018/06/42374725534_a653d1b7cb_k.jpg");
+    background-image: url("./img/imgrocket.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -23,3 +23,22 @@ body{
     color: #9acd32;
     background-color: #ffffff;
 }
+
+/* Seletores avançados. */
+
+/* O seletor universal * pode afetar todos os elementos da sua página. */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* O seletor de atributo seleciona elementos baseados nos atributos que eles possuem.*/
+a[href="https://www.exemplo.com"] { 
+    color: red; 
+}
+
+/* PSEUDO CLASSES - muito útil. */
+/* A pseudo-classe :hover aplica estilos a um elemento quando o cursor do mouse está sobre ele. */
+button:hover {
+    background-color: yellow;
+}
+
