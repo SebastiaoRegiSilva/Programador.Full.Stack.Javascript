@@ -1,0 +1,33 @@
+/* Uso de variáveis, local e global! */
+:root{
+    --img-url: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages4.alphacoders.com%2F923%2Fthumb-1920-923963.jpg&f=1&nofb=1&ipt=4d8c5d98e2889541b98758dcedffa9a2773119fa79fd6c424be6336ed4356fd8&ipo=images");
+    --color-default: #ffffff;
+}
+
+body{
+    background-image: var(--img-url);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: var(--color-default);
+}
+
+div#days-of-week h3{
+    color: #f1c40f;
+}
+
+li{
+    color: var(--color-default);
+}
+
+div#activities h2{
+    background-color: #f1c40f;
+    color: #000000;
+    border: 1px solid;
+}
+
+#astronomy-class{
+    color: #e74c3c ;
+}
