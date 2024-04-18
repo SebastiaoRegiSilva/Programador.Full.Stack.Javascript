@@ -29,11 +29,23 @@
 <img aling="center" alt="h" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg">
 </div>
 
- - O que é <span style="color: green">**Bulma**</span> e porque utilizá-lo;
+ - O que é **Bulma** e porque utilizá-lo;
  - Aprender como inserir no projeto;
  - Usar os componentes do *framework*;
  - Usar o **navbar** e o **footer**;
  - O que é **responsividade** e aprender a aplicá-la.
+
+<div style="display": inline_block> 
+  <h3>Javascript</h3>
+<img aling="center" alt="h" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
+
+ - O que é Javascript;
+ - *Linguagem Multiparadigma: POO, Funcional e Orientada à Eventos*;
+ - Tipos primitivos: **number, string(*cadeia de caracteres*), boolean, null e undefined**;
+ - Recursos nativos no browser;
+ - Declaração de variáveis e constante (let, const, var);
+
 
 
 #### Licença
