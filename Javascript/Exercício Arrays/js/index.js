@@ -36,7 +36,7 @@ let highlightedSpaceships = hitchedSpaceships.map(spaceship => {
 
 // 4:
 let message = "Espaçonaves com mais de 9 tripulantes: " + crewGreaterThan9.join(", ")
-message += "\nPlataforma com processo de engate: " + (ongoingHitchPlatform + 1)
+message += "\nPlataforma com processo de engate: " + (ongoingHitchPlatform)
 message += "\nEspaçonaves destacadas: " + highlightedSpaceships.join(", ")
 
 alert(message)
